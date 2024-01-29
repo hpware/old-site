@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Info</title>
+  </head>
+  <body>
+    <p>Info here</p>
+    <p><a href="https://testconnectcenter.azurewebsites.net"</p>
