@@ -1,0 +1,7 @@
+Documentation of the error codes
+ 
+0x836 NO TOKEN IN URL STRING
+
+0x262 NOT A SYSTEM REDIRECT URL STRING MUST BE system_redirect=1
+
+0x670 NO URL IN PLACE OF STRING
