@@ -26,7 +26,7 @@ camera.position.x = farDist * -2;
 camera.position.z = 500;
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setClearColor("#4E1A84D"); // Backgrond Color - Blue
+renderer.setClearColor("#000000"); // Backgrond Color - Black
 renderer.setPixelRatio(window.devicePixelRatio); // For HiDPI devices to prevent bluring output canvas
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.querySelector("#canvas-wrapper").appendChild(renderer.domElement);
