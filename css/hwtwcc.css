@@ -1,0 +1,80 @@
+
+.open-sans-300 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.open-sans-400 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.white-background {
+    background-color: white;
+}
+
+.black-background {
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.bright-blue {
+    color: #0096FF;
+}
+
+.baby-blue {
+    color: #89CFF0 ;
+}
+
+.blue {
+    color: #00008B ;
+}
+
+.white {
+    color: white;
+}
+
+.C5EC0B-green {
+    color:#C5EC0B;
+}
+
+.EC880B-color {
+    color:#EC880B;
+}
+
+iframe {
+    border: none;
+}
+
+.bottom-hr { 
+    height: 1px;
+	background-color: #383838;
+	border: none;
+	}
+
+.footer {
+    font-family: "TW Cen MT";
+    color: #20b5ff;
+    font-size: 13px;
+    text-align: center;
+}
+
+.top-bar {
+    font-family: "TW Cen MT";
+    color:#20b5ff;
+}
+
+.ff9e20-color {
+    color: #ff9e20;
+}
